@@ -2,8 +2,8 @@ One North Styleguide
 ===========
 
 ##Syntax Guidance
-* List exceptions
-* Scss List
+  - [ ] List exceptions
+  - [ ] SCSS List
 
 ## Implementation Guide
 * Best Practices
