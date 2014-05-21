@@ -6,32 +6,32 @@ One North Styleguide
   - [ ] SCSS List
 
 ## Implementation Guide
-* Best Practices
-* * HTML
-* * CSS
-* * JS
-* SEO / AJAX
-* Directory Setup
-* Naming Conventions
-* Documentation
-* Modulization
+- [ ] Best Practices
+    - [ ] HTML
+    - [ ] CSS
+    - [ ] JS
+- [ ] SEO / AJAX
+- [ ] Directory Setup
+- [ ] Naming Conventions
+- [ ] Documentation
+- [ ] Modulization
 
 ## CS Concepts
-* DRY
-* FIRST
+- [ ] DRY
+- [ ] FIRST
 
 ## Tips
-* JS Quirks
-* CSS Quirks / Responsive Design
-* Performance
-* Use \t instead of spaces
+- [ ] JS Quirks
+- [ ] CSS Quirks / Responsive Design
+- [ ] Performance
+- [ ] Use \t instead of spaces
 
 ## Asset Handling
-* fonts
-* imgs
+- [ ] fonts
+- [ ] imgs
 
 ##Efficiency
-* Framework Selection
+- [ ] Framework Selection
 
 ##Time Estimation
 
